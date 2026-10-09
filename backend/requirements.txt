@@ -1,0 +1,7 @@
+elasticsearch
+fastapi
+psycopg
+pydantic
+pydantic-settings
+redis
+uvicorn
